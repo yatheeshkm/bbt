@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="823.662" height="885.479" viewBox="0 0 823.662 885.479">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.854" x2="0.854" y2="0.146" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#31a1cc"/>
+      <stop offset="1" stop-color="#0052ac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.146" y1="0.854" x2="0.854" y2="0.146" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#31a1cc"/>
+      <stop offset="1" stop-color="#00c3ac"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0b65b4"/>
+      <stop offset="1" stop-color="#00c3ac"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_437" data-name="Group 437" transform="translate(-1555.729 -5217.585)">
+    <g id="Group_438" data-name="Group 438">
+      <rect id="Rectangle_201" data-name="Rectangle 201" width="823.662" height="109.229" rx="8.228" transform="translate(1555.729 5228.785)" fill="#f8f8f8"/>
+      <rect id="Rectangle_202" data-name="Rectangle 202" width="823.662" height="73.57" rx="8.228" transform="translate(1555.729 5741.804)" fill="#f8f8f8"/>
+      <rect id="Rectangle_203" data-name="Rectangle 203" width="823.662" height="229.095" rx="8.228" transform="translate(1555.729 5425.361)" fill="#f8f8f8"/>
+      <g id="Group_175" data-name="Group 175">
+        <circle id="Ellipse_74" data-name="Ellipse 74" cx="78.114" cy="78.114" r="78.114" transform="translate(1586.11 5460.338)" fill="url(#linear-gradient)"/>
+        <text id="問題点" transform="translate(1622.643 5549.295)" fill="#fff" font-size="24.3" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.21em"><tspan x="0" y="0">問題点</tspan></text>
+      </g>
+      <g id="Group_176" data-name="Group 176">
+        <circle id="Ellipse_75" data-name="Ellipse 75" cx="78.114" cy="78.114" r="78.114" transform="translate(2187.819 5460.338)" fill="url(#linear-gradient-2)"/>
+        <text id="影響" transform="translate(2239.503 5549.295)" fill="#fff" font-size="24.3" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.21em"><tspan x="0" y="0">影響</tspan></text>
+      </g>
+      <g id="Group_177" data-name="Group 177">
+        <text id="複雑性_技術_インターフェイス_再利用_開発経験_コードの規模" data-name="複雑性
+技術
+インターフェイス
+再利用
+開発経験
+コードの規模" transform="translate(1790.333 5477.395)" font-size="16" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.11em"><tspan x="0" y="0">複雑性</tspan><tspan x="0" y="28">技術</tspan><tspan x="0" y="56">インターフェイス</tspan><tspan x="0" y="84">再利用</tspan><tspan x="0" y="112">開発経験</tspan><tspan x="0" y="140">コードの規模</tspan></text>
+        <text id="_" data-name="●
+●
+●
+●
+●
+●" transform="translate(1767.93 5475.4)" fill="#0065b7" font-size="9" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.13em"><tspan x="0" y="0">●</tspan><tspan x="0" y="28">●</tspan><tspan x="0" y="56">●</tspan><tspan x="0" y="84">●</tspan><tspan x="0" y="112">●</tspan><tspan x="0" y="140">●</tspan></text>
+      </g>
+      <g id="Group_178" data-name="Group 178">
+        <text id="採算性_User_Importance_安全性_セキュリティ_使い勝手_性能" data-name="採算性
+User Importance
+安全性
+セキュリティ
+使い勝手
+性能" transform="translate(2134.523 5476.397)" font-size="16" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.11em"><tspan x="-51.52" y="0">採算性</tspan><tspan letter-spacing="0.05em"><tspan x="-143.904" y="28">User Importance</tspan></tspan><tspan x="-51.52" y="56">安全性</tspan><tspan x="-104.32" y="84">セキュリティ</tspan><tspan x="-69.28" y="112">使い勝手</tspan><tspan x="-33.76" y="140">性能</tspan></text>
+        <text id="_2" data-name="●
+●
+●
+●
+●
+●" transform="translate(2148.938 5474.402)" fill="#03c0af" font-size="9" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.13em"><tspan x="0" y="0">●</tspan><tspan x="0" y="28">●</tspan><tspan x="0" y="56">●</tspan><tspan x="0" y="84">●</tspan><tspan x="0" y="112">●</tspan><tspan x="0" y="140">●</tspan></text>
+      </g>
+      <g id="Group_187" data-name="Group 187">
+        <g id="Group_179" data-name="Group 179">
+          <rect id="Rectangle_254" data-name="Rectangle 254" width="176.463" height="40.012" rx="2.826" transform="translate(1590.088 5263.483)" fill="#fff"/>
+          <text id="期間の長期化" transform="translate(1688.222 5289.774)" font-size="14.633" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.19em"><tspan x="-50.848" y="0">期間の長期化</tspan></text>
+        </g>
+        <g id="Group_180" data-name="Group 180">
+          <rect id="Rectangle_255" data-name="Rectangle 255" width="176.463" height="40.012" rx="2.826" transform="translate(1777.263 5263.483)" fill="#fff"/>
+          <text id="予算の増加" transform="translate(1876.936 5289.774)" font-size="14.633" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.19em"><tspan x="-42.142" y="0">予算の増加</tspan></text>
+        </g>
+        <g id="Group_181" data-name="Group 181">
+          <rect id="Rectangle_256" data-name="Rectangle 256" width="176.463" height="40.012" rx="2.826" transform="translate(1964.438 5263.483)" fill="#fff"/>
+          <text id="膨大な工数" transform="translate(2062.039 5289.774)" font-size="14.633" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.19em"><tspan x="-42.142" y="0">膨大な工数</tspan></text>
+        </g>
+        <g id="Group_182" data-name="Group 182">
+          <rect id="Rectangle_257" data-name="Rectangle 257" width="192.434" height="40.012" rx="2.951" transform="translate(2151.613 5263.483)" fill="#fff"/>
+          <text id="市場への投入の遅れ" transform="translate(2259.251 5289.774)" font-size="14.633" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.09em"><tspan x="-71.115" y="0">市場への投入の遅れ</tspan></text>
+        </g>
+        <g id="Group_183" data-name="Group 183">
+          <path id="Path_876" data-name="Path 876" d="M1628.836,5276.329c-4.393,2.441-8.841,9.384-8.841,9.384l-4.014-4.556-2.386,2.278,5.8,7.214,2.116-.081a35.594,35.594,0,0,1,8.706-13.588Z" fill="#0065b7"/>
+        </g>
+        <g id="Group_184" data-name="Group 184">
+          <path id="Path_877" data-name="Path 877" d="M1827.38,5276.329c-4.393,2.441-8.841,9.384-8.841,9.384l-4.014-4.556-2.386,2.278,5.8,7.214,2.116-.081a35.6,35.6,0,0,1,8.706-13.588Z" fill="#0065b7"/>
+        </g>
+        <g id="Group_185" data-name="Group 185">
+          <path id="Path_878" data-name="Path 878" d="M2012.148,5276.329c-4.393,2.441-8.841,9.384-8.841,9.384l-4.013-4.556-2.387,2.278,5.8,7.214,2.116-.081a35.594,35.594,0,0,1,8.706-13.588Z" fill="#0065b7"/>
+        </g>
+        <g id="Group_186" data-name="Group 186">
+          <path id="Path_879" data-name="Path 879" d="M2182.646,5276.329c-4.394,2.441-8.842,9.384-8.842,9.384l-4.013-4.556-2.387,2.278,5.8,7.214,2.116-.081a35.594,35.594,0,0,1,8.706-13.588Z" fill="#0065b7"/>
+        </g>
+      </g>
+      <path id="Union_1" data-name="Union 1" d="M1970.127,5558.981h-19.681v6.32l-19.836-18,19.836-18.006v7.3h19.681v-7.3l19.836,18.006-19.836,18Z" fill="url(#linear-gradient-3)"/>
+      <path id="Union_2" data-name="Union 2" d="M1941.6,5384.392h7.347v-26.463h26.022v26.463h8.485l-20.926,23.054Z" fill="#ff7c00"/>
+      <text id="課題" transform="translate(1943.48 5235.585)" font-size="21" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.23em"><tspan x="0" y="0">課題</tspan></text>
+      <text id="結果" transform="translate(1936.772 5920.419)" font-size="21" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.23em"><tspan x="0" y="0">結果</tspan></text>
+      <path id="Union_3" data-name="Union 3" d="M1941.6,5702.411h7.347v-26.462h26.022v26.462h8.485l-20.927,23.055Z" fill="#ff7c00"/>
+      <path id="Union_4" data-name="Union 4" d="M1941.6,5858.173h7.346v-26.461h26.023v26.461h8.484l-20.927,23.055Z" fill="#ff7c00"/>
+      <text id="リスク分析とリスク評価" transform="translate(1837.739 5784.811)" font-size="21" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.23em"><tspan x="0" y="0">リスク分析とリスク評価</tspan></text>
+      <g id="Group_189" data-name="Group 189">
+        <g id="Group_188" data-name="Group 188">
+          <circle id="Ellipse_76" data-name="Ellipse 76" cx="78.114" cy="78.114" r="78.114" transform="translate(1708.419 5946.836)" fill="#ff7c00"/>
+        </g>
+      </g>
+      <g id="Group_190" data-name="Group 190">
+        <circle id="Ellipse_77" data-name="Ellipse 77" cx="78.114" cy="78.114" r="78.114" transform="translate(1888.562 5946.836)" fill="#ff7c00"/>
+      </g>
+      <g id="Group_191" data-name="Group 191">
+        <circle id="Ellipse_78" data-name="Ellipse 78" cx="78.114" cy="78.114" r="78.114" transform="translate(2070.825 5946.836)" fill="#ff7c00"/>
+      </g>
+      <text id="テストケースを_6Kから4Kに_削減" data-name="テストケースを
+6Kから4Kに
+削減" transform="translate(1786.533 6020.684)" fill="#fff" font-size="14.633" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.15em"><tspan x="-56.628" y="0">テストケースを</tspan><tspan x="-48.522" y="22.337">6Kから4Kに</tspan><tspan x="-15.73" y="44.675">削減</tspan></text>
+      <text id="早い段階で_致命的欠陥を_特定" data-name="早い段階で
+致命的欠陥を
+特定" transform="translate(1966.676 6020.684)" fill="#fff" font-size="14.633" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.15em"><tspan x="-40.971" y="0">早い段階で</tspan><tspan x="-49.385" y="22.337">致命的欠陥を</tspan><tspan x="-15.73" y="44.675">特定</tspan></text>
+      <text id="市場投入までの_期間短縮" data-name="市場投入までの
+期間短縮" transform="translate(2148.938 6025.951)" fill="#fff" font-size="14.633" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="0.15em"><tspan x="-57.799" y="0">市場投入までの</tspan><tspan x="-32.558" y="22.337">期間短縮</tspan></text>
+      <g id="Group_192" data-name="Group 192">
+        <path id="Path_885" data-name="Path 885" d="M1797.992,5964.782c-7.266,4.037-14.621,15.519-14.621,15.519l-6.637-7.535-3.948,3.767,9.6,11.93,3.5-.134a58.884,58.884,0,0,1,14.4-22.471Z" fill="#ff0"/>
+      </g>
+      <g id="Group_193" data-name="Group 193">
+        <path id="Path_886" data-name="Path 886" d="M1979.195,5964.782c-7.266,4.037-14.621,15.519-14.621,15.519l-6.638-7.535-3.947,3.767,9.6,11.93,3.5-.134a58.87,58.87,0,0,1,14.4-22.471Z" fill="#ff0"/>
+      </g>
+      <g id="Group_194" data-name="Group 194">
+        <path id="Path_887" data-name="Path 887" d="M2160.4,5964.782c-7.266,4.037-14.621,15.519-14.621,15.519l-6.638-7.535-3.947,3.767,9.6,11.93,3.5-.134a58.869,58.869,0,0,1,14.4-22.471Z" fill="#ff0"/>
+      </g>
+    </g>
+  </g>
+</svg>

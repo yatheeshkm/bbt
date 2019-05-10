@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="886.229px" height="943.629px" viewBox="0 0 886.229 943.629" enable-background="new 0 0 886.229 943.629"
+	 xml:space="preserve">
+<g id="Group_436" transform="translate(-1555.361 -3005.548)">
+	<rect id="Rectangle_204" x="2089.521" y="3109.337" fill="#FFF6DE" width="290.869" height="47.102"/>
+	<g id="Group_90">
+		<text transform="matrix(1 0 0 1 1575.3141 3197.3445)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="16" letter-spacing="1">SDK</tspan><tspan x="38.178" y="0" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">の学習</tspan></text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3219.3445)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">開発環境準備</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3302.8953)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">基本設計</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3324.8953)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">詳細設計</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3401.4207)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">コーディング</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3425.4207)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">モジュールテスト</text>
+		<text transform="matrix(1 0 0 1 1575.3141 3449.4207)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="16" letter-spacing="1">I/F </tspan><tspan x="30.149" y="0" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">開発</tspan></text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3502.1804)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">デバッグ</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3526.1804)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">設計変更</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3550.1804)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">再開発</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3606.531)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">コーディング</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3630.531)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">テスト仕様作成</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3654.531)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">総合テスト</text>
+		
+			<text transform="matrix(1 0 0 1 1575.3141 3706.5828)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">高コストサポート</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3604.863)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3628.863)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3652.863)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3704.2927)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3500.4744)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3524.4744)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3548.4744)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3399.3816)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3423.3816)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3447.3816)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3299.949)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3323.949)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3195.2498)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+		<text transform="matrix(1 0 0 1 1556.3141 3219.2498)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+	</g>
+	<g id="Group_92">
+		<g id="Group_91">
+			
+				<linearGradient id="Path_773_1_" gradientUnits="userSpaceOnUse" x1="1692.3131" y1="3873.7859" x2="1693.3131" y2="3873.7859" gradientTransform="matrix(220.3579 0 0 -121.866 -371052.5 475328.625)">
+				<stop  offset="0" style="stop-color:#DDF8FF"/>
+				<stop  offset="1" style="stop-color:#DDF8FF"/>
+			</linearGradient>
+			<path id="Path_773" fill="url(#Path_773_1_)" d="M2082.355,3185.156L2082.355,3185.156l-110.179,29.866l-110.18-29.866l0,0v92
+				l0,0l110.18,29.866l110.179-29.866l0,0V3185.156z"/>
+			
+				<linearGradient id="Path_774_1_" gradientUnits="userSpaceOnUse" x1="1692.3131" y1="3873.7849" x2="1693.3131" y2="3873.7849" gradientTransform="matrix(220.3579 0 0 -121.866 -371052.5 475430.375)">
+				<stop  offset="0" style="stop-color:#DDF8FF"/>
+				<stop  offset="1" style="stop-color:#DDF8FF"/>
+			</linearGradient>
+			<path id="Path_774" fill="url(#Path_774_1_)" d="M2082.355,3286.979L2082.355,3286.979l-110.179,29.866l-110.18-29.866l0,0v92
+				l0,0l110.18,29.866l110.179-29.866l0,0V3286.979z"/>
+			
+				<linearGradient id="Path_775_1_" gradientUnits="userSpaceOnUse" x1="1692.3126" y1="3873.7849" x2="1693.3126" y2="3873.7849" gradientTransform="matrix(220.36 0 0 -121.866 -371056.0313 475532.25)">
+				<stop  offset="0" style="stop-color:#DDF8FF"/>
+				<stop  offset="1" style="stop-color:#DDF8FF"/>
+			</linearGradient>
+			<path id="Path_775" fill="url(#Path_775_1_)" d="M2082.355,3388.8L2082.355,3388.8l-110.179,29.866l-110.182-29.866l0,0v92l0,0
+				l110.179,29.865l110.18-29.865l0,0L2082.355,3388.8z"/>
+			
+				<linearGradient id="Path_776_1_" gradientUnits="userSpaceOnUse" x1="1692.3131" y1="3873.7849" x2="1693.3131" y2="3873.7849" gradientTransform="matrix(220.3579 0 0 -121.866 -371052.5 475634)">
+				<stop  offset="0" style="stop-color:#DDF8FF"/>
+				<stop  offset="1" style="stop-color:#DDF8FF"/>
+			</linearGradient>
+			<path id="Path_776" fill="url(#Path_776_1_)" d="M2082.355,3490.629L2082.355,3490.629l-110.179,29.865l-110.18-29.865l0,0v92
+				l0,0l110.18,29.865l110.179-29.865l0,0V3490.629z"/>
+			
+				<linearGradient id="Path_777_1_" gradientUnits="userSpaceOnUse" x1="1692.3131" y1="3873.7849" x2="1693.3131" y2="3873.7849" gradientTransform="matrix(220.3579 0 0 -121.866 -371052.5 475735.875)">
+				<stop  offset="0" style="stop-color:#DDF8FF"/>
+				<stop  offset="1" style="stop-color:#DDF8FF"/>
+			</linearGradient>
+			<path id="Path_777" fill="url(#Path_777_1_)" d="M2082.355,3592.451L2082.355,3592.451l-110.179,29.867l-110.18-29.867l0,0v92
+				l0,0l110.18,29.867l110.179-29.867l0,0V3592.451z"/>
+			
+				<linearGradient id="Path_778_1_" gradientUnits="userSpaceOnUse" x1="1692.3131" y1="3873.8445" x2="1693.3131" y2="3873.8445" gradientTransform="matrix(220.3579 0 0 -106.624 -371052.5 416792.5)">
+				<stop  offset="0" style="stop-color:#DDF8FF"/>
+				<stop  offset="1" style="stop-color:#DDF8FF"/>
+			</linearGradient>
+			<path id="Path_778" fill="url(#Path_778_1_)" d="M2082.355,3694.275L2082.355,3694.275l-110.179,29.867l-110.18-29.867l0,0
+				V3800.9v-6.758l110.18-0.32l110.179,0.32v-7.867l0,0V3694.275z"/>
+			
+				<linearGradient id="Rectangle_205_1_" gradientUnits="userSpaceOnUse" x1="1692.3131" y1="3875.1101" x2="1693.3131" y2="3875.1101" gradientTransform="matrix(220.362 0 0 -29.389 -371059.4375 117085.4609)">
+				<stop  offset="0" style="stop-color:#DDF8FF"/>
+				<stop  offset="1" style="stop-color:#DDF8FF"/>
+			</linearGradient>
+			<rect id="Rectangle_205" x="1861.993" y="3185.156" fill="url(#Rectangle_205_1_)" width="220.362" height="29.389"/>
+		</g>
+	</g>
+	<rect id="Rectangle_206" x="2092.727" y="3185.156" fill="#FAFAFA" width="72.433" height="601.063"/>
+	<rect id="Rectangle_207" x="1777.697" y="3185.156" fill="#FAFAFA" width="72.433" height="601.063"/>
+	<rect id="Rectangle_222" x="1777.285" y="3185.156" fill="#DFDFDF" width="73.257" height="92.049"/>
+	<rect id="Rectangle_223" x="1777.285" y="3286.993" fill="#DFDFDF" width="73.257" height="92.049"/>
+	<rect id="Rectangle_224" x="1777.285" y="3388.83" fill="#DFDFDF" width="73.257" height="92.048"/>
+	<rect id="Rectangle_225" x="1777.285" y="3490.668" fill="#DFDFDF" width="73.257" height="92.049"/>
+	<rect id="Rectangle_226" x="1777.285" y="3592.504" fill="#DFDFDF" width="73.257" height="92.049"/>
+	<rect id="Rectangle_227" x="1777.285" y="3694.342" fill="#DFDFDF" width="73.257" height="99.643"/>
+	<rect id="Rectangle_228" x="2092.727" y="3185.156" fill="#FFD97A" width="72.433" height="10.094"/>
+	<rect id="Rectangle_229" x="2092.727" y="3388.804" fill="#FFD97A" width="72.433" height="10.094"/>
+	<rect id="Rectangle_230" x="2092.727" y="3286.979" fill="#FFD97A" width="72.433" height="20.188"/>
+	
+		<text transform="matrix(1 0 0 1 2171.5415 3141.1111)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="21" letter-spacing="4">当社の場合</text>
+	<rect id="Rectangle_231" x="1555.729" y="3109.337" fill="#FAFAFA" width="290.869" height="47.102"/>
+	
+		<text transform="matrix(1 0 0 1 1636.8229 3141.1111)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="21" letter-spacing="4">従来の場合</text>
+	<g id="Group_134">
+		<text transform="matrix(1 0 0 1 2200.4146 3197.3445)" enable-background="new    "><tspan x="0" y="0" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">環境準備不要で</tspan><tspan x="124.32" y="0" font-family="'ArialMT'" font-size="16" letter-spacing="1"> </tspan></text>
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3219.3445)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">クイックスタート</text>
+		
+			<line id="Line_3" fill="none" stroke="#FFD97A" stroke-width="2" stroke-miterlimit="10" x1="2170.662" y1="3190.483" x2="2191.501" y2="3190.483"/>
+	</g>
+	<g id="Group_135">
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3302.8953)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">標準部品提供によ</text>
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3324.8953)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">り設計不要</text>
+		
+			<line id="Line_4" fill="none" stroke="#FFD97A" stroke-width="2" stroke-miterlimit="10" x1="2170.662" y1="3296.035" x2="2191.501" y2="3296.035"/>
+	</g>
+	<g id="Group_136">
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3401.4207)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">提供フレームワークを</text>
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3425.4207)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">使った設計作業</text>
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3449.4207)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">コーディングなしの設計</text>
+		
+			<line id="Line_5" fill="none" stroke="#FFD97A" stroke-width="2" stroke-miterlimit="10" x1="2170.662" y1="3394.56" x2="2191.501" y2="3394.56"/>
+	</g>
+	<rect id="Rectangle_232" x="2092.727" y="3489.562" fill="#FFD97A" width="72.433" height="25.369"/>
+	<g id="Group_137">
+		
+			<text transform="matrix(1 0 0 1 2220.5884 3502.1804)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">最適化</text>
+		
+			<text transform="matrix(1 0 0 1 2220.5884 3526.1804)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">ハイパフォーマンス</text>
+		
+			<text transform="matrix(1 0 0 1 2220.5884 3550.1804)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">標準化</text>
+		
+			<line id="Line_6" fill="none" stroke="#FFD97A" stroke-width="2" stroke-miterlimit="10" x1="2170.662" y1="3495.32" x2="2191.501" y2="3495.32"/>
+	</g>
+	<rect id="Rectangle_233" x="2092.727" y="3593.914" fill="#FFD97A" width="72.433" height="12.686"/>
+	<g id="Group_138">
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3606.531)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">提供フレームワークによる</text>
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3630.531)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">効率的なテストの実施</text>
+		
+			<line id="Line_7" fill="none" stroke="#FFD97A" stroke-width="2" stroke-miterlimit="10" x1="2170.662" y1="3599.67" x2="2191.501" y2="3599.67"/>
+	</g>
+	<rect id="Rectangle_234" x="2092.727" y="3693.965" fill="#FFD97A" width="72.433" height="100.02"/>
+	<g id="Group_139">
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3706.5828)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">高品質サポートにより</text>
+		
+			<text transform="matrix(1 0 0 1 2200.4146 3730.5828)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">低コスト化を実現</text>
+		
+			<line id="Line_8" fill="none" stroke="#FFD97A" stroke-width="2" stroke-miterlimit="10" x1="2170.662" y1="3699.72" x2="2191.501" y2="3699.72"/>
+	</g>
+	<g id="Group_140" transform="translate(-150)">
+		
+			<text transform="matrix(1 0 0 1 2359.0532 3873.1775)" fill="#FF0000" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">部品の活用により</text>
+		
+			<text transform="matrix(1 0 0 1 2359.0532 3897.1775)" fill="#FF0000" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">開発期間を大幅に短縮</text>
+	</g>
+	
+		<line id="Line_9" fill="none" stroke="#DFDFDF" stroke-width="2" stroke-miterlimit="10" x1="1675.325" y1="3190.483" x2="1765.557" y2="3190.483"/>
+	
+		<line id="Line_10" fill="none" stroke="#DFDFDF" stroke-width="2" stroke-miterlimit="10" x1="1656.37" y1="3296.035" x2="1765.557" y2="3296.035"/>
+	
+		<line id="Line_11" fill="none" stroke="#DFDFDF" stroke-width="2" stroke-miterlimit="10" x1="1685.417" y1="3394.56" x2="1765.557" y2="3394.56"/>
+	
+		<line id="Line_12" fill="none" stroke="#DFDFDF" stroke-width="2" stroke-miterlimit="10" x1="1652.796" y1="3495.32" x2="1765.557" y2="3495.32"/>
+	
+		<line id="Line_13" fill="none" stroke="#DFDFDF" stroke-width="2" stroke-miterlimit="10" x1="1685.417" y1="3599.67" x2="1765.557" y2="3599.67"/>
+	
+		<line id="Line_14" fill="none" stroke="#DFDFDF" stroke-width="2" stroke-miterlimit="10" x1="1722.587" y1="3699.72" x2="1765.557" y2="3699.72"/>
+	<text transform="matrix(1 0 0 1 2203.4087 3500.4744)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+	<text transform="matrix(1 0 0 1 2203.4087 3524.4744)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+	<text transform="matrix(1 0 0 1 2203.4087 3548.4744)" fill="#D3D3D3" font-family="'ArialMT'" font-size="9" letter-spacing="1">●</text>
+	<path id="Path_840" fill="#FFD97A" d="M2129.165,3809.521l35.995-15.535h-71.989L2129.165,3809.521z"/>
+	<path id="Path_841" fill="#DFDFDF" d="M1813.914,3809.521l36.629-15.535h-73.257L1813.914,3809.521z"/>
+	
+		<linearGradient id="Ellipse_59_1_" gradientUnits="userSpaceOnUse" x1="1693.1578" y1="3873.4714" x2="1693.8658" y2="3874.1794" gradientTransform="matrix(111.46 0 0 -111.46 -186627.2969 435656.1563)">
+		<stop  offset="0" style="stop-color:#31A1CC"/>
+		<stop  offset="1" style="stop-color:#0052AC"/>
+	</linearGradient>
+	<circle id="Ellipse_59" fill="url(#Ellipse_59_1_)" cx="2131.498" cy="3879.715" r="55.73"/>
+	<text transform="matrix(1 0 0 1 2090.4536 3902.6248)" fill="#FFFFFF" font-family="'ArialMT'" font-size="59.025">1.0</text>
+	<g id="Group_142">
+		<g id="Group_141">
+			<text transform="matrix(1 0 0 1 1583.3063 3873.1775)" enable-background="new    "><tspan x="0" y="0" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">弊社</tspan><tspan x="35.52" y="0" font-family="'ArialMT'" font-size="16" letter-spacing="1">1.0</tspan><tspan x="63.042" y="0" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">に対して、</tspan></text>
+			<text transform="matrix(1 0 0 1 1583.3063 3897.1775)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="16" letter-spacing="1">5.0</tspan><tspan x="27.522" y="0" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="16" letter-spacing="1">倍の時間が必要</tspan></text>
+		</g>
+	</g>
+	<circle id="Ellipse_60" fill="#BABABA" cx="1813" cy="3879.716" r="57.862"/>
+	<text transform="matrix(1 0 0 1 1779.9562 3902.6248)" fill="#FFFFFF" font-family="'ArialMT'" font-size="59.025">5.0</text>
+	<g id="Group_143">
+		
+			<text transform="matrix(1 0 0 1 1942.0948 3364.1501)" fill="#0065B7" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="21" letter-spacing="3">設計</text>
+		
+			<text transform="matrix(1 0 0 1 1942.0948 3465.1169)" fill="#0065B7" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="21" letter-spacing="3">開発</text>
+		
+			<text transform="matrix(1 0 0 1 1892.5348 3566.0828)" fill="#0065B7" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="21" letter-spacing="3">チューニング</text>
+		
+			<text transform="matrix(1 0 0 1 1905.1349 3667.0486)" fill="#0065B7" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="21" letter-spacing="3">総合テスト</text>
+		
+			<text transform="matrix(1 0 0 1 1917.1061 3251.7146)" fill="#0065B7" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="21" letter-spacing="3">準備要件</text>
+		
+			<text transform="matrix(1 0 0 1 1899.692 3767.656)" fill="#0065B7" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="21" letter-spacing="3">保守サポート</text>
+	</g>
+	<g id="Group_145">
+		
+			<text transform="matrix(1 0 0 1 1865.8409 3023.5476)" font-family="'KozGoPr6N-Regular-90ms-RKSJ-H'" font-size="21" letter-spacing="4">開発効率化の実現</text>
+		<g id="Group_144">
+			
+				<line id="Line_15" fill="none" stroke="#D6D6D6" stroke-miterlimit="10" x1="1555.361" y1="3054.66" x2="2379.504" y2="3054.66"/>
+			<path id="Rectangle_235" fill="#0065B7" d="M1860.093,3054.839v-2.291c0-0.211,0.171-0.382,0.382-0.382h212.401
+				c0.211,0,0.383,0.171,0.383,0.382v2.291c0,0.211-0.172,0.382-0.383,0.382h-212.401
+				C1860.264,3055.221,1860.093,3055.05,1860.093,3054.839z"/>
+		</g>
+	</g>
+</g>
+</svg>

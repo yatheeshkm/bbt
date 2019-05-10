@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="179.961" height="179.961" viewBox="0 0 179.961 179.961">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#31a1cc"/>
+      <stop offset="1" stop-color="#0052ac"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_435" data-name="Group 435" transform="translate(-1776.269 -1576.01)">
+    <circle id="Ellipse_40" data-name="Ellipse 40" cx="89.98" cy="89.98" r="89.98" transform="translate(1776.269 1576.01)" fill="url(#linear-gradient)"/>
+    <g id="Group_111" data-name="Group 111">
+      <g id="Group_109" data-name="Group 109">
+        <rect id="Rectangle_215" data-name="Rectangle 215" width="13.817" height="13.817" transform="translate(1832.388 1634.187)" fill="#fff"/>
+        <g id="Group_108" data-name="Group 108">
+          <g id="Group_106" data-name="Group 106">
+            <path id="Path_808" data-name="Path 808" d="M1848.638,1661.529V1651.6h9.925" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.633"/>
+            <path id="Path_809" data-name="Path 809" d="M1883.228,1661.529V1651.6H1873.3" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.633"/>
+          </g>
+          <g id="Group_107" data-name="Group 107">
+            <path id="Path_810" data-name="Path 810" d="M1883.228,1675.418v9.925H1873.3" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.633"/>
+            <path id="Path_811" data-name="Path 811" d="M1848.638,1675.418v9.925h9.925" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.633"/>
+          </g>
+        </g>
+        <rect id="Rectangle_216" data-name="Rectangle 216" width="13.817" height="13.817" transform="translate(1886.293 1634.187)" fill="#fff"/>
+        <rect id="Rectangle_217" data-name="Rectangle 217" width="13.817" height="13.817" transform="translate(1832.388 1688.092)" fill="#fff"/>
+        <rect id="Rectangle_218" data-name="Rectangle 218" width="13.817" height="13.817" transform="translate(1886.293 1688.092)" fill="#fff"/>
+      </g>
+      <g id="Group_110" data-name="Group 110">
+        <path id="Path_812" data-name="Path 812" d="M1862,1666.964l4.249-4.238h-8.5Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.108"/>
+        <line id="Line_2" data-name="Line 2" y1="13.192" transform="translate(1862 1662.726)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.108"/>
+        <path id="Path_813" data-name="Path 813" d="M1873.3,1668.57v7.348h-7.348Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.108"/>
+      </g>
+      <circle id="Ellipse_42" data-name="Ellipse 42" cx="1.083" cy="1.083" r="1.083" transform="translate(1852.645 1655.161)" fill="#fff"/>
+      <circle id="Ellipse_43" data-name="Ellipse 43" cx="1.083" cy="1.083" r="1.083" transform="translate(1855.09 1657.694)" fill="#fff"/>
+      <circle id="Ellipse_44" data-name="Ellipse 44" cx="1.083" cy="1.083" r="1.083" transform="translate(1877.023 1655.205)" fill="#fff"/>
+      <circle id="Ellipse_45" data-name="Ellipse 45" cx="1.083" cy="1.083" r="1.083" transform="translate(1874.49 1657.65)" fill="#fff"/>
+      <circle id="Ellipse_46" data-name="Ellipse 46" cx="1.083" cy="1.083" r="1.083" transform="translate(1877.023 1679.595)" fill="#fff"/>
+      <circle id="Ellipse_47" data-name="Ellipse 47" cx="1.083" cy="1.083" r="1.083" transform="translate(1874.578 1677.062)" fill="#fff"/>
+      <circle id="Ellipse_48" data-name="Ellipse 48" cx="1.083" cy="1.083" r="1.083" transform="translate(1852.645 1679.551)" fill="#fff"/>
+      <circle id="Ellipse_49" data-name="Ellipse 49" cx="1.083" cy="1.083" r="1.083" transform="translate(1855.178 1677.106)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
